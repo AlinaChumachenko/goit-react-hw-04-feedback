@@ -1,0 +1,13 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  color: #af4c4c;
+  gap: 10px;
+}
+
+.item {
+  font-size: 18px;
+  font-weight: 500;
+}
